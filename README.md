@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Rishav123raj</h1>
+<h1 align="center">Hi 👋, I'm Rishav Raj Bhagat</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India along with keen interest in Data Science and Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rishavrajbhagat123@gmail.com**
 
-- 📄 Know about my experiences [I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.](I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.)
+- 📄 Know about my experiences : I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.
 
 - ⚡ Fun fact **Relationship with Coding can never lead to breakups**
 
