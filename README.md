@@ -6,6 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav123raj&label=Profile%20views&color=0e75b6&style=flat" alt="rishav123raj" /> </p>
 
 - 🔭 I’ve completed project on **ATM Management System**
+  
+- 🔭 I’ve completed project on **Book Store Management System**
+  
+- 🔭 I’ve completed project on **Photo Albumn API**
+
 
 - 🌱 I’m currently learning **SpringBoot**
 
