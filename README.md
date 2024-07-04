@@ -13,8 +13,10 @@
 
 - 🔭 I’ve completed project on **ECommerce Platform using Springboot**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I've completed learning **SpringBoot**
 
+- 🌱 I'm currently learning **Docker**
+- 
 - 📫 How to reach me **rishavrajbhagat123@gmail.com**
 
 - 📄 Know about my experiences : I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.
