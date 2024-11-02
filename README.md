@@ -15,11 +15,16 @@
 
 - 🌱 I've completed learning **SpringBoot**
 
-- 🌱 I'm currently learning **Docker**
-- 
+- 🌱 I have learnt **Docker**
+  
+- 🌱 I am currently doing an internhsip at Baserock.ai as an Engineering Intern
+    
 - 📫 How to reach me **rishavrajbhagat123@gmail.com**
 
-- 📄 Know about my experiences : I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.
+- 📄 Know about my experiences :
+- I have done 2 months Machine Learning Internship at IIIT Kalyani , Webel IT Park.
+  
+- I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.
 
 - ⚡ Fun fact **Relationship with Coding can never lead to breakups**
 
