@@ -5,27 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav123raj&label=Profile%20views&color=0e75b6&style=flat" alt="rishav123raj" /> </p>
 
-- 🔭 I’ve completed project on **ATM Management System**
+- 🔭 I have built a Medical Chatbot using LLM and Gemini API
   
-- 🔭 I’ve completed project on **Book Store Management System**
+- 🔭 Developed a keen and user friendly Springboot Photo Album API
+
+- 🔭 Developed an end to end EcoShop - An AI Shopping Assistant
   
-- 🔭 I’ve completed project on **Photo Albumn API**
-
-- 🔭 I’ve completed project on **ECommerce Platform using Springboot**
-
-- 🌱 I've completed learning **SpringBoot**
+- 🌱 I have completed learning **SpringBoot**
 
 - 🌱 I have learnt **Docker**
-  
-- 🌱 I am currently doing an internhsip at Baserock.ai as an Engineering Intern
-    
+      
 - 📫 How to reach me **rishavrajbhagat123@gmail.com**
 
 - 📄 Know about my experiences :
+
+- 🌱 I have done an internhsip at Baserock.ai for 3 months as an Engineering Intern
+  
 - I have done 2 months Machine Learning Internship at IIIT Kalyani , Webel IT Park.
   
-- I have done a Virtual Internship Program with Oasis Infobytes on JAVA Development which enhanced my skills and made me eager to learn new technologies.
-
 - ⚡ Fun fact **Relationship with Coding can never lead to breakups**
 
 <h3 align="left">Connect with me:</h3>
